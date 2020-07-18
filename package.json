@@ -8,7 +8,7 @@
     "@material-ui/core": "3.6.1",
     "axios": "latest",
     "history": "latest",
-    "lodash": "4.17.11",
+    "lodash": "4.17.19",
     "react": "16.5.2",
     "react-dom": "16.5.2",
     "react-redux": "5.1.1",
